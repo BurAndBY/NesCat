@@ -1,4 +1,4 @@
-![Image description](https://github.com/nathalis/NesCat/raw/main/NESCAT_icon.png)
+![Image description](https://github.com/burandby/NesCat/raw/main/NESCAT_icon.png)
 
 # NesCat 0.5
 
